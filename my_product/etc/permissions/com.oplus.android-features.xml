@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<permissions>
+	<feature name="oplus.software.vibration_threestage_key"/>
+	<feature name="oplus.software.performance.disable_strict_ux"/>
+</permissions>
+<!-- Timestamp 2024-11-22T22:53:33 #fa4296ab-f197-4d51-8038-d87099ef42c3 -->

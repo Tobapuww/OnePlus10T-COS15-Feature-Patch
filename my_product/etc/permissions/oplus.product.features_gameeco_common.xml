@@ -1,0 +1,9 @@
+<oplus-config>
+    <!-- zhangjunhui@GAMEECO.COOLEFFECT.COOLEX, 2020/12/03, Add for coolex feature start -->
+    <oplus-feature name="oplus.software.coolex.support"/>
+    <!-- end -->
+    <!-- huangwentao@GAMEECO.GPU.CONTROLPANEL, 2022/09/16, Add for gpu controlpanel feature start -->
+    <oplus-feature name="oplus.gpu.controlpanel.support"/>
+    <!-- end -->
+</oplus-config>
+	

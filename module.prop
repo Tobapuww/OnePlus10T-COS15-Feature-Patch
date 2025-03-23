@@ -1,0 +1,11 @@
+id=ColorOS-OnePlus_Ace_Pro
+name=ColorOS 15 for 一加Ace Pro 前瞻版
+version=v2.4
+versionCode=10
+versionDate=2025/03/7
+Appversion=PGP110_15.0.0.200
+adapter=OnePlus Ace Pro
+author=Tobapuw
+description=ColorOS 15 for 一加 Ace Pro的功能补全模块，用于找回被官方阉割的各种系统功能，帮助您在机圈中找回属于自己的自信。
+Buckle=688533318
+minMagisk=28100

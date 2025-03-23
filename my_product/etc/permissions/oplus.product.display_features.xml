@@ -1,0 +1,69 @@
+<oplus-config>
+
+    <!-- =================== DISPLAY FEATURES BEGIN ================================ -->
+    <!-- heteromorphism feature -->
+    <oplus-feature name="oplus.software.display.screen_heteromorphism" />
+    <!-- <oplus-feature name="oplus.software.display.origin_roundcorner_support" /> -->
+
+    <!-- brightness feature -->
+    <oplus-feature name="oplus.software.display.screen_gloablehbm_support" />
+    <oplus-feature name="oplus.software.display.autobrightctl_animation_support" />
+    <oplus-feature name="oplus.software.display.multibits_dimming_support" />
+    <oplus-feature name="oplus.software.display.brightness_mode_automatic" />
+    <oplus-feature name="oplus.software.display.intelligent_color_temperature_support" />
+
+    <!-- colormode feature -->
+    <oplus-feature name="oplus.software.display.colormode_support" />
+    <oplus-feature name="oplus.software.display.colorful_mode_support" />
+    <oplus-feature name="oplus.software.display.cinema_mode_support" />
+    <oplus-feature name="oplus.software.display.colormode_calibrate_support" />
+
+    <!-- hdr hbm feature -->
+    <oplus-feature name="oplus.software.display.hdr_enhance_brightness_support" />
+
+    <!-- PWMBacklight feature -->
+    <oplus-feature name="oplus.software.display.pwm_switch.support"/>
+
+    <!-- dcbacklight features -->
+    <!-- oplus-feature name="oplus.software.display.dcbacklight_support" / -->
+
+    <!-- aod feature -->
+    <oplus-feature name="oplus.software.display.aod_support" />
+    <oplus-feature name="oplus.software.display.aod_prevent_burn_support" />
+
+    <!-- sceen fingerprint feature -->
+    <oplus-feature name="oplus.software.fingeprint_optical_enabled" />
+
+    <!-- fingerprint dimlayer feature -->
+    <!-- <oplus-feature name="oplus.software.display.fingerprint_disable_dimlayer" /> -->
+
+    <!-- game hqv feature -->
+    <!-- oplus-feature name="oplus.software.display.game_color_plus_v2_support"/ -->
+
+    <!-- sceen mode feature -->
+    <oplus-feature name="oplus.software.display.dynamic_fps_switch" />
+
+    <!-- no use feature -->
+    <!-- oplus-feature name="oplus.software.display.autolight_psensor_notsupport" / -->
+
+    <!-- qianxu@MULTIMEDIA.DISPLAY, 2022/9/19, Add for iris service -->
+    <oplus-feature name="oplus.software.display.game.memc_enable"/>
+    <oplus-feature name="oplus.software.display.game.memc_increase_fps_limit_mode"/>
+    <oplus-feature name="oplus.software.display.pixelworks_x7_enable"/>
+    <oplus-feature name="oplus.software.display.game.sr_enable"/>
+    <oplus-feature name="oplus.software.display.game_color_plus_iris_sdr2hdr_support"/>
+
+    <!-- Add for automatic proximity sensor support   -->
+    <oplus-feature name="oplus.software.display.automatic_brightness_proximity_disable"/>
+
+    <!-- Add for display calbrication 100APL   -->
+    <oplus-feature name="oplus.software.display.screen_calibrate_100apl"/>
+    <!-- Add for true tone sensor support   -->
+    <oplus-feature name="oplus.software.display.proximity_sensor_support_for_intelligent_color_temperature"/>
+    <oplus-feature name="oplus.software.display.eyeprotect_game_support" />
+    <oplus-feature name="oplus.software.display.hdr_enhance_brightness_support"/>
+    <oplus-feature name="oplus.software.display.color_space_support" />
+    <oplus-feature name="oplus.software.display.game_color_space_support" />
+    <!-- =================== DISPLAY FEATURES END ================================== -->
+
+</oplus-config>
