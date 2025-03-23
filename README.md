@@ -54,6 +54,7 @@
 | 抖音直播美颜             | Douyin Live Beauty Filter         | ✅      | ✅  | ⚠️         | ⚠️   | 需抖音 v25.6+            | Requires Douyin v25.6+              |
 | 息屏显示防烧             | AOD Burn-in Protection            | ✅      | ✅  | ✅         | ✅   | 动态像素偏移技术          | Dynamic pixel shifting              |
 | 亮度范围无极调整          | Brightness Fine-tuning            | ✅      | ✅  | ✅         | ⚠️   | 开发者选项                | Developer option                    |
+| 完全体系统动画          | Full System Animations            | ✅      | ✅  | ✅         | ⚠️   | 非线性动画补全            | Non-linear animation enhancement    |
 
 ### 🔋 电池与性能 | Battery & Performance
 | 功能名称 (中文)          | Feature Name (English)             | Ace Pro | 10T | Magisk 28+ | KSU  | 备注 (中文)               | Notes (English)                     |
@@ -64,10 +65,6 @@
 | 功能名称 (中文)          | Feature Name (English)             | Ace Pro | 10T | Magisk 28+ | KSU  | 备注 (中文)               | Notes (English)                     |
 |--------------------------|------------------------------------|---------|-----|------------|------|--------------------------|-------------------------------------|
 | 游戏 4D 震动            | 4D Game Vibration                 | ✅      | ✅  | ✅         | ✅   | 多场景触感反馈            | Multi-scenario haptic feedback      |
-| 自动追焦                | Auto Focus Tracking              | ✅      | ✅  | ✅         | ✅   | 视频/直播增强             | Video/Live streaming enhancement    |
-| 马里亚纳介绍页面         | MariSilicon X Panel               | ✅      | ✅  | ✅         | ✅   | 芯片功能展示              | Displays chip capabilities          |
-| 运动相机模式            | Action Camera Mode                | ✅      | ✅  | ✅         | ✅   | 高帧率运动拍摄            | High-FPS action shots               |
-
 ### ⚙️ 系统工具 | System Tools
 | 功能名称 (中文)          | Feature Name (English)             | Ace Pro | 10T | Magisk 28+ | KSU  | 备注 (中文)               | Notes (English)                     |
 |--------------------------|------------------------------------|---------|-----|------------|------|--------------------------|-------------------------------------|
@@ -79,13 +76,16 @@
 | 隔空播放与暂停          | Air Gesture (Play/Pause)          | ✅      | ✅  | ✅         | ✅   | 手势识别优化              | Optimized gesture recognition       |
 | 应用音量单独设置        | Per-App Volume Control            | ✅      | ✅  | ✅         | ✅   | 独立音量调节              | Individual volume adjustment        |
 | 拖动无极音量调节        | Smooth Volume Slider              | ✅      | ✅  | ✅         | ✅   | 无级音量控制              | Stepless volume control             |
+| 马里亚纳介绍页面         | MariSilicon X Panel               | ✅      | ✅  | ✅         | ✅   | 芯片介绍展示              | Displays chip capabilities          |
+
 
 ### 📸 影像增强 | Camera
 | 功能名称 (中文)          | Feature Name (English)             | Ace Pro | 10T | Magisk 28+ | KSU  | 备注 (中文)               | Notes (English)                     |
 |--------------------------|------------------------------------|---------|-----|------------|------|--------------------------|-------------------------------------|
 | 哈苏水印                | Hasselblad Watermark              | ✅      | ✅  | ✅         | ✅   | 专业影像认证              | Professional imaging certification  |
 | 实况相机                | Live Photo                        | ✅      | ✅  | ✅         | ✅   | 动态照片合成              | Dynamic photo synthesis             |
-| 完全体系统动画          | Full System Animations            | ✅      | ✅  | ✅         | ⚠️   | 非线性动画补全            | Non-linear animation enhancement    |
+| 自动追焦                | Auto Focus Tracking              | ✅      | ✅  | ✅         | ✅   | 视频/直播增强             | Video/Live streaming enhancement    |
+| 运动相机模式            | Action Camera Mode                | ✅      | ✅  | ✅         | ✅   | 高帧率运动拍摄            | High-FPS action shots               |
 
 ---
 
