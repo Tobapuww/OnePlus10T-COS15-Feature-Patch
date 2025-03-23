@@ -1,10 +1,9 @@
-# 🚀 ColorOS 15 完全体功能增强模块  
+# 🚀 ColorOS 15 完全体功能增强模块&前瞻版  
 # 🚀 ColorOS 15 Ultimate Feature Enhancement Module  
 
 
 ## ⚠️ ​**重要提醒 | Critical Notes**  
 
-```diff
 - ​**系统兼容性警告 | Compatibility Warning**  
 ! 本模块基于 ​**ColorOS 15** 系统制作，未在氧OS（OxygenOS）测试，可能引发兼容性问题！  
 ! This module is designed for ​**ColorOS 15**. Compatibility with OxygenOS is ​**NOT guaranteed**!  
@@ -20,6 +19,7 @@
 - ​**问题反馈前提 | Bug Report Rule**  
 ! 报告功能异常前，请先确认系统版本符合要求，并提供日志（logcat）。  
 ! Provide logs (logcat) and confirm system version before reporting bugs.
+
 ---
 
 ## 📋 ​**完整功能表 | Complete Features Table**  
@@ -99,17 +99,14 @@
 ---
 
 ## 🤝 ​**欢迎贡献代码 | Pull Requests Welcome**  
-```markdown
+
 **提交 PR 步骤 | How to Contribute:**  
 1. ​**Fork 仓库** | Fork this repository  
 2. ​**创建分支** | Create a feature branch: `git checkout -b feat/your-feature`  
 3. ​**提交代码** | Commit changes with clear descriptions  
 4. ​**发起 PR** | Open a Pull Request against the `main` branch  
-```
 
 ---
 
 ## 🔗 ​**即刻下载 | Download now**  
-```  
-https://github.com/Tobapuww/OnePlus10T-COS15-Feature-Patch/releases  
-```
+[点击这里 Here](https://github.com/Tobapuww/OnePlus10T-COS15-Feature-Patch/releases)
