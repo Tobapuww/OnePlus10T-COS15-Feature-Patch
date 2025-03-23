@@ -1,7 +1,6 @@
 # 🚀 ColorOS 15 完全体功能增强模块  
 # 🚀 ColorOS 15 Ultimate Feature Enhancement Module  
 
----
 
 ## ⚠️ ​**重要提醒 | Critical Notes**  
 
@@ -21,7 +20,6 @@
 - ​**问题反馈前提 | Bug Report Rule**  
 ! 报告功能异常前，请先确认系统版本符合要求，并提供日志（logcat）。  
 ! Provide logs (logcat) and confirm system version before reporting bugs.
-
 ---
 
 ## 📋 ​**完整功能表 | Complete Features Table**  
