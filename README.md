@@ -3,6 +3,27 @@
 
 ---
 
+## ⚠️ ​**重要提醒 | Critical Notes**  
+
+```diff
+- ​**系统兼容性警告 | Compatibility Warning**  
+! 本模块基于 ​**ColorOS 15** 系统制作，未在氧OS（OxygenOS）测试，可能引发兼容性问题！  
+! This module is designed for ​**ColorOS 15**. Compatibility with OxygenOS is ​**NOT guaranteed**!  
+
+- ​**实况相机要求 | Live Photo Requirement**  
+! 需系统版本 ≥ ​**15.0.0.500** 以启用全部功能，低版本可能导致崩溃。  
+! Requires firmware ​**15.0.0.500+** for stable Live Photo. Lower versions may crash.  
+
+- ​**Magisk 版本限制 | Magisk Version**  
+! 仅支持官方 Magisk（[GitHub 发布版](https://github.com/topjohnwu/Magisk/releases)），​**不支持狐狸版/修改版**！  
+! Only official Magisk is supported. ​**Modified forks (e.g., Fox Magisk) will fail**!  
+
+- ​**问题反馈前提 | Bug Report Rule**  
+! 报告功能异常前，请先确认系统版本符合要求，并提供日志（logcat）。  
+! Provide logs (logcat) and confirm system version before reporting bugs.
+
+---
+
 ## 📋 ​**完整功能表 | Complete Features Table**  
 
 ### 📶 通信增强 | Connectivity
